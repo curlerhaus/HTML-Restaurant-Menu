@@ -85,3 +85,8 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
